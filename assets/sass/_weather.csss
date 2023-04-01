@@ -1,0 +1,14 @@
+.weather {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+
+}
+
+&_title {
+    margin: 0 0 30x 0;
+    color: $titleColor;
+    text-align: center;
+    letter-spacing: 2px;
+}
